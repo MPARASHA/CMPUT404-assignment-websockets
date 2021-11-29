@@ -59,3 +59,13 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Manu Parashar
+
+Collaboration
+==============
+I did not collaborate with any other student for this assignment
+
+References
+===========
+* https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
+* https://github.com/MPARASHA/CMPUT404-assignment-ajax/blob/master/static/index.html
